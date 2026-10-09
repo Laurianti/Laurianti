@@ -5,4 +5,4 @@ CTO and Cloud Solution Architect at [Extra-Net](https://www.extranetsrl.it), in 
 - I maintain [ChromaDotNet](https://chromadotnet.org), the .NET client for [Chroma](https://www.trychroma.com/) and Chroma Cloud.
 - I wrote the Chroma provider for Microsoft.Extensions.VectorData in the [AI Community Toolkit](https://github.com/CommunityToolkit/AI) of the .NET Foundation: `CommunityToolkit.VectorData.Chroma`.
 
-[LinkedIn](https://www.linkedin.com/in/federico-laurianti/)
+[LinkedIn](https://www.linkedin.com/in/federico-laurianti/) · [Stack Overflow](https://stackoverflow.com/users/3802281/laurianti)
