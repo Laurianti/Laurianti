@@ -18,7 +18,7 @@ CTO and Cloud Solution Architect at [Extra-Net](https://www.extranetsrl.it), in 
   - **tryAGI**: [LangChain](https://github.com/tryAGI/LangChain/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [LangChain.Databases](https://github.com/tryAGI/LangChain.Databases/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **SciSharp**: [LLamaSharp](https://github.com/SciSharp/LLamaSharp/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [BotSharp](https://github.com/SciSharp/BotSharp/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **LLM Tornado**: [Chroma connector](https://github.com/lofcz/LLMTornado/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
-  - **MassTransit**: [Getting Started sample](https://github.com/MassTransit/Sample-GettingStarted/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [fixes adopted in 9.x](https://github.com/MassTransit/MassTransit/issues?q=is%3Aissue+author%3ALaurianti+is%3Aclosed+created%3A%3E%3D2026-01-01).
+  - **MassTransit**: [Getting Started sample](https://github.com/MassTransit/Sample-GettingStarted/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [fixes adopted in 9.x](https://masstransit.massient.com/reference/change-log#version-924).
   - **Rebus**: [Rebus.PostgreSql](https://github.com/rebus-org/Rebus.PostgreSql/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **Helm charts**: [Apache Pulsar](https://github.com/apache/pulsar-helm-chart/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [Bitnami](https://github.com/bitnami/charts/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [Camunda 7](https://github.com/camunda-community-hub/camunda-7-community-helm/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [Seq](https://github.com/datalust/helm.datalust.co/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
 
