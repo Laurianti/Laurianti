@@ -14,6 +14,8 @@ CTO and Cloud Solution Architect at [Extra-Net](https://www.extranetsrl.it), in 
   - **OpenAI**: [OpenAI .NET API library](https://github.com/openai/openai-dotnet/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **Elastic**: [esql-dotnet](https://github.com/elastic/esql-dotnet/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **Redis**: [server](https://github.com/redis/redis/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [docs](https://github.com/redis/docs/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
+  - **MongoDB**: [C# Driver](https://github.com/mongodb/mongo-csharp-driver/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
+  - **Milvus**: [C# SDK](https://github.com/milvus-io/milvus-sdk-csharp/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **Testcontainers**: [Testcontainers for .NET](https://github.com/testcontainers/testcontainers-dotnet/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **tryAGI**: [LangChain](https://github.com/tryAGI/LangChain/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [LangChain.Databases](https://github.com/tryAGI/LangChain.Databases/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
   - **SciSharp**: [LLamaSharp](https://github.com/SciSharp/LLamaSharp/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged), [BotSharp](https://github.com/SciSharp/BotSharp/pulls?q=is%3Apr+author%3ALaurianti+is%3Amerged).
